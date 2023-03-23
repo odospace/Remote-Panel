@@ -65,10 +65,10 @@ Many thanks to the Aida64 team for the great support!
  
 
 Best regards 
-Odo
-
-
-
+ Odo
+ 
+ 
+ 
 
 Google Play: https://play.google.com/store/apps/details?id=com.odospace.remotepanel
 
