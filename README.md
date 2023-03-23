@@ -1,9 +1,6 @@
----
-**NOTE**
+>Google will remove old apps from Google Play after 31. August 2023, when not migrated to a newer API version. Because i don't longer actively support Remote Panel, i >have moved the source (and installable runtimes) to GitHub. The installable files can be found in the folder runtime.
 
-Google will remove old apps from Google Play after 31. August 2023, when not migrated to a newer API version. Because i don't longer actively support Remote Panel, i have moved the source (and installable runtimes) to GitHub. The installable files can be found in the folder runtime.
-
----
+----
 
 Reuse your old android device to display sensor values of a Windows PC. A WiFi connection is not (!) required, Remote Panel works even when the device is connected to the PC via USB only. However, an SDK for Remote Panel is provided also.
  
