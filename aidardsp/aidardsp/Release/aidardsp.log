@@ -1,0 +1,11 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\aidardsp\dllmain.cpp(31,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\aidardsp\dllmain.cpp(101,2): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\aidardsp\dllmain.cpp(217,13): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+     Creating library D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\Release\aidardsp.lib and object D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\Release\aidardsp.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 11 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  aidardsp.vcxproj -> D:\Dokumente\development\OdoSpaceRemotePanel\aidardsp\Release\aidardsp.dll

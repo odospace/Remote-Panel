@@ -1,0 +1,9 @@
+LIBRARY aidardsp
+
+EXPORTS
+  send_image	             @1
+  test_connection            @2
+  clear_screen               @3
+  clear_screen_ex            @4
+  get_last_async_error       @5
+

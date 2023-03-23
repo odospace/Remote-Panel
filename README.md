@@ -74,5 +74,8 @@ Links
 - Aida64 Forum: https://forums.aida64.com/topic/2776-display-pc-sensor-values-on-android-device-connected-via-usb-odospace-remote-panel/
 
 
-Compile
-For winexe use https://sourceforge.net/projects/sharpdevelop/
+Development tools used:
+windows:  https://sourceforge.net/projects/sharpdevelop/
+install:  http://www.jrsoftware.org/isdl.php#stable
+aidardsp: Visual Studio
+android:  Eclipse
