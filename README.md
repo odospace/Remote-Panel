@@ -64,13 +64,14 @@ Many thanks to the Aida64 team for the great support!
 
  
 
-Best regards 
- Odo
+Best regards <br/>
+Odo
  
  
  
-
-Google Play: https://play.google.com/store/apps/details?id=com.odospace.remotepanel
+Links
+- Google Play: https://play.google.com/store/apps/details?id=com.odospace.remotepanel
+- Aida64 Forum: https://forums.aida64.com/topic/2776-display-pc-sensor-values-on-android-device-connected-via-usb-odospace-remote-panel/
 
 
 Compile
