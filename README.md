@@ -1,3 +1,10 @@
+---
+**NOTE**
+
+Google will remove old apps from Google Play after 31. August 2023, when not migrated to a newer API version. Because i don't longer actively support Remote Panel, i have moved the source (and installable runtimes) to GitHub. The installable files can be found in the folder runtime.
+
+---
+
 Reuse your old android device to display sensor values of a Windows PC. A WiFi connection is not (!) required, Remote Panel works even when the device is connected to the PC via USB only. However, an SDK for Remote Panel is provided also.
  
 Sensor values are provided by the industry-leading system information tool Aida64 which must be purchased separately. Please note that Remote Panel is not affiliated with Aida64 or FinalWire in any way shape or form and no support can be provided by the Aida64 team for this app.
