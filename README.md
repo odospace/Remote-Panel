@@ -6,8 +6,9 @@ Reuse your old android device to display sensor values of a Windows PC. A WiFi c
 Sensor values are provided by the industry-leading system information tool Aida64 which must be purchased separately. Please note that Remote Panel is not affiliated with Aida64 or FinalWire in any way shape or form and no support can be provided by the Aida64 team for this app.
  
 Requirements
+- Install the Adroid APK from here https://github.com/odospace/Remote-Panel/blob/main/runtime/RemotePanel.apk
 - Aida64 version 5.20.3414 or heigher must be installed on the Windows PC.
-- Remote Panel (for Windows) version 1.16 must be installed and running, it can be downloaded with the following link https://apps.odospace.com/RemotePanelSetup.exe 
+- Remote Panel (for Windows) version 1.16 must be installed and running, it can be downloaded with the following link https://github.com/odospace/Remote-Panel/blob/main/runtime/RemotePanelSetup.exe 
 - Microsoft .Net framework 4.5 must be installed on the Windows PC. This will be done during the installation of Remote Panel (for Windows).
 - The android device vendor's drivers must be installed on the Windows PC.
 - USB debugging must be enabled on the android device. This is described in detail here. 
