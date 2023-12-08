@@ -3,6 +3,10 @@
 ----
 
 Reuse your old android device to display sensor values of a Windows PC. A WiFi connection is not (!) required, Remote Panel works even when the device is connected to the PC via USB only. However, an SDK for Remote Panel is provided also.
+
+![image](https://github.com/odospace/Remote-Panel/assets/34418472/62dc0bca-a760-4c41-865d-c87d8b948666)
+![image](https://github.com/odospace/Remote-Panel/assets/34418472/977e7700-cf87-4ca6-900a-f587f218ad0d)
+![image](https://github.com/odospace/Remote-Panel/assets/34418472/90ea74da-5ae9-49f5-8c69-2ea3c1fe8635)
  
 Sensor values are provided by the industry-leading system information tool Aida64 which must be purchased separately. Please note that Remote Panel is not affiliated with Aida64 or FinalWire in any way shape or form and no support can be provided by the Aida64 team for this app.
  
