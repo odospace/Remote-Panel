@@ -1,4 +1,8 @@
 ----
+>This project has been retired, for questions/support post into the following forum: https://forums.aida64.com/topic/2776-display-pc-sensor-values-on-android-device-connected-via-usb-odospace-remote-panel/
+----
+
+----
 >Google will remove old apps from Google Play after 31. August 2023, when not migrated to a newer API version. Because i don't longer actively support Remote Panel, i have moved the source (and installable runtimes) to GitHub. The installable files can be found in the folder runtime.
 ----
 
